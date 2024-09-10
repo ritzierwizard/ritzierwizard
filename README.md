@@ -1,4 +1,7 @@
-## Hi there 👋
+## Joshua Antikainen
+
+- I’m currently learning computer science at City College in Billings, MT
+- You can reach me at: joshua.antiakainen@gmail.com
 
 <!--
 **ritzierwizard/ritzierwizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
