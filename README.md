@@ -1,4 +1,4 @@
-## Joshua Antikainen
+## About Me
 
 - I’m currently learning computer science at City College in Billings, MT
 - You can reach me at: joshua.antiakainen@gmail.com
